@@ -1,5 +1,5 @@
 <a href="https://ibb.co/dbQ7qPh"><img src="https://i.ibb.co/KN9mk21/banner.png" alt="banner" border="0" width="1000"></a>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A passionate Software developer from USA</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg4NDFhYmQyMDAzYmU2MmE2NmQwNWQ3NjA3ZTc4NjNlNjAxZDhjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **Angular**
