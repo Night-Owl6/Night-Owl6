@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software developer from USA</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg4NDFhYmQyMDAzYmU2MmE2NmQwNWQ3NjA3ZTc4NjNlNjAxZDhjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java Spring**
 
-- 💬 Ask me about **React, Node.js**
+- 💬 Ask me about **Web Development, Software and databases**
 
 - 📫 How to reach me **tiwariajay928@gmail.com**
 
